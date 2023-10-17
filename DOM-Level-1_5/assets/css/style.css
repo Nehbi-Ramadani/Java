@@ -39,8 +39,12 @@ a {
     font-size: 2rem;
 }
 
+div{
+    text-align: center;
+}
+
 div img {
-    padding-left: 350px;
+    
     padding-top: 50px;
     
 }
