@@ -1,0 +1,46 @@
+
+@font-face {
+    font-family:"perma";
+    src: url(./../font/PermanentMarker-Regular.ttf);
+}
+
+
+html{
+    font-family: "perma";
+}
+
+body{
+    background-color:peachpuff
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    border-bottom: 3px solid black;
+    padding-bottom: 40px;
+}
+
+section { 
+    padding: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid black;
+    padding-bottom: 50px;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    border: 3px solid brown;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 2rem;
+}
+
+div img {
+    padding-left: 350px;
+    padding-top: 50px;
+    
+}
